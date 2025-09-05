@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Cossette+Texte:wght@400;700&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Cossette+Texte:wght@400;700&family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Cossette+Texte:wght@400;700&family=Michroma&family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&display=swap");
+body {
+  background-color: mediumpurple;
+}
+
+h1,
+h2 {
+  color: white;
+}
+h1,
+h2 {
+  font-family: "Michroma", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+  font-size: 2.5em;
+}
+h2 {
+  font-size: 1.5em;
+}
+
+body {
+  color: white;
+}
+
+header nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li a {
+  color: yellow;
+}
+li a:link {
+  padding: 0;
+}
+li a:visited {
+  outline: 1px dotted black;
+}
+
+li a:hover {
+  background-color: blueviolet;
+}
+
+.knap {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+}
+.knap {
+  font-size: 1em;
+  color: white;
+  background-color: blueviolet;
+  margin: 1em;
+  padding: 1em;
+  border-radius: 1em;
+  text-decoration: none;
+}
+.knap:hover {
+  background-color: violet;
+}
+
+p {
+  line-height: 1.5;
+}
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
